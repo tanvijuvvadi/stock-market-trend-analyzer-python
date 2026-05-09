@@ -82,6 +82,7 @@ Data Source:
 Yahoo Finance API using yfinance
 
 📈 Analysis Performed
+
 ✔ Daily Returns
 
 Calculated percentage change in stock prices.
@@ -109,6 +110,7 @@ Moving average charts
 
 
 ▶️ How to Run the Project
+
 Step 1 — Install Libraries
 pip install pandas numpy matplotlib seaborn yfinance mplfinance
 Step 2 — Run Notebook
@@ -140,6 +142,7 @@ Working with APIs
 Risk and volatility analysis
 
 🎯 Future Improvements
+
 Real-time stock analysis
 Streamlit dashboard
 FastAPI integration
